@@ -9,3 +9,5 @@ admin.site.register(Receiver)
 admin.site.register(ReceiverCategory)
 admin.site.register(Template)
 admin.site.register(History)
+
+
