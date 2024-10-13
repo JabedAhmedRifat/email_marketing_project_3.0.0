@@ -163,8 +163,8 @@ CELERY_RESULT_SERIALIZER = 'json'
 # mailtrap email configuration
 
 # EMAIL_HOST = 'sandbox.smtp.mailtrap.io'
-# EMAIL_HOST_USER = '3697efc056a1c2'
-# EMAIL_HOST_PASSWORD = '06c35ddaaca348'
+# EMAIL_HOST_USER = 'EMAIL_HOST_USER'
+# EMAIL_HOST_PASSWORD = 'EMAIL_HOST_PASSWORD'
 # EMAIL_PORT = '2525'
 
 
@@ -174,5 +174,5 @@ CELERY_RESULT_SERIALIZER = 'json'
 # "EMAIL_USE_TLS": true,
 # "EMAIL_HOST": "smtp.gmail.com",
 # "EMAIL_PORT": 587,
-# "EMAIL_HOST_USER": "jabedahmedrifat3@gmail.com",
-# "EMAIL_HOST_PASSWORD": "zyvbiveaemxbjraj"
+# "EMAIL_HOST_USER": "EMAIL_HOST_USER@gmail.com",
+# "EMAIL_HOST_PASSWORD": "EMAIL_HOST_PASSWORD"
